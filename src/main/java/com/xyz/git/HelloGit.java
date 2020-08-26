@@ -16,6 +16,7 @@ public class HelloGit {
 		System.out.println("分支branch1在15行修改代码!!");
 		System.out.println("GitHub软件在线编辑!");
 		System.out.println("master主干本地编辑处理!");
+		System.out.println("从GitHub上Clone下来的项目做代码修改!");
 	}
 
 }
