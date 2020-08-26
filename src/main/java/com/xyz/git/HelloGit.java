@@ -1,19 +1,20 @@
 package com.xyz.git;
 
 /**
- * Description:ÑİÊ¾²Ù×÷GitÊ¾Àı´úÂë
+ * Description:æ¼”ç¤ºæ“ä½œGitç¤ºä¾‹ä»£ç 
  * @author ex_xieke
- * @date 2020Äê8ÔÂ26ÈÕ
+ * @date 2020å¹´8æœˆ26æ—¥
  */
 
 public class HelloGit {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Git!");
-		System.out.println("masterĞŞ¸Ä´úÂë!");
-		System.out.println("branch1ĞŞ¸Ä´úÂë!");
-		System.out.println("Ö÷¸ÉmasterÔÚ15ĞĞĞŞ¸Ä´úÂë!");
-		System.out.println("·ÖÖ§branch1ÔÚ15ĞĞĞŞ¸Ä´úÂë!!");
+		System.out.println("masterä¿®æ”¹ä»£ç !");
+		System.out.println("branch1ä¿®æ”¹ä»£ç !");
+		System.out.println("ä¸»å¹²masteråœ¨15è¡Œä¿®æ”¹ä»£ç !");
+		System.out.println("åˆ†æ”¯branch1åœ¨15è¡Œä¿®æ”¹ä»£ç !!");
+                System.out.println("GitHubè½¯ä»¶åœ¨çº¿ç¼–è¾‘!");
 	}
 
 }
