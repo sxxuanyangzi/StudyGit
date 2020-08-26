@@ -12,6 +12,7 @@ public class HelloGit {
 		System.out.println("Hello Git!");
 		System.out.println("master修改代码!");
 		System.out.println("branch1修改代码!");
+		System.out.println("分支branch1在15行修改代码!!");
 	}
 
 }
